@@ -1,5 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/{ajak2k}/count.svg)
-
 # Dev Portfolio
 
 🚀 **[Dev Portfolio V2 has arrived. Meet Devfolio, a modern portfolio + blog template built with GatsbyJS and TailwindCSS](https://github.com/RyanFitzgerald/devfolio)** 🚀
